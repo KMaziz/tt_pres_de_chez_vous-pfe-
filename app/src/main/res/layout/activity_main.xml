@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.esri.arcgisruntime.mapping.view.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </com.esri.arcgisruntime.mapping.view.MapView>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/mapView"
+
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#00000000"
+        android:dropDownWidth="wrap_content"
+        android:popupBackground="#00000000" />
+
+    <Button
+        android:id="@+id/plusproche"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="19dp"
+        android:text="Espace TT le plus proche" />
+
+    <Button
+        android:id="@+id/itineraire"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/mapView"
+        android:layout_marginBottom="2dp"
+        android:visibility="invisible"
+        android:text="•Afficher l'itinéraire vers l’espace le plus proche" />
+
+    <Button
+        android:id="@+id/navigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/mapView"
+        android:layout_alignBottom="@+id/itineraire"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="démarrer une navigation"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/mapView"
+        android:layout_alignBottom="@+id/itineraire"
+        android:layout_marginEnd="6dp"
+        android:layout_marginBottom="10dp"
+        android:visibility="invisible"
+        android:text="cancel" />
+
+</RelativeLayout>

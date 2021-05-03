@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.5.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\d0bcb4aace5ad9d48c4188f884e7e19b\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ec82d4f638f9932d2641b7c95e417f28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\5f738d173eabcb0573f3a33d97975439\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\fd98b963f7aaef6697e9ab0924c2a86f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\05093cd4a2e015049225f93a11d6c569\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\3ddc82a9f16c21b5f0e0fee9d9b03c52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\38fa209f0ca902b826d89a106add2fd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\e9ed9ca7c7ff320d10c16df47288a7b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\5380dd66d43ae9968408e3e94ac0fb0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\886a0d626578ca98d44115bce7e1e787\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\02a19d220b47a22ed9bc56436f299490\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\14e0cd6eef8e6c8a5615e0eec5c9dd02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\a18e10221dc7126a97f53cd7c1b90401\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\13a785c61d8a1a0363a7bc6c5a7bd62c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\965106ad1777522b9e68197d78c0bf43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ecb39431001cef38b1904d77f98e2866\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\15bbb178e75cddcd4d4fdeec78f5a830\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\9aac15f18608bb74a4cdc8e105986a88\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\65e530d34a85eae9d32461191f3a4042\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\162a10f2aedaba906e5501564edf87c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\c21f3f46085c529322c18dffb9257b4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ff6096746adf33172798b2bbf73846eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\b8b5903923bcbc575e7de621a678b667\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\0672c6332b8bdc391d00d0bde2e93008\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\4fd532ab504db2e8233742dddad708cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\01182262091909c8f37bacb9c0427cce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\984eb083d855c8833a59460c599ec508\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\82da0d87cbc719c324f7571ddd016919\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:6:22-76
+uses-feature#0x00020000
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:7:5-78
+	android:glEsVersion
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:7:19-51
+	android:required
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:7:52-75
+application
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\5f738d173eabcb0573f3a33d97975439\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\5f738d173eabcb0573f3a33d97975439\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\15bbb178e75cddcd4d4fdeec78f5a830\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\15bbb178e75cddcd4d4fdeec78f5a830\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\9aac15f18608bb74a4cdc8e105986a88\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\9aac15f18608bb74a4cdc8e105986a88\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\15bbb178e75cddcd4d4fdeec78f5a830\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.kefi.aziz.ttprsdechezvous.MainActivity
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.5.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\d0bcb4aace5ad9d48c4188f884e7e19b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.5.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\d0bcb4aace5ad9d48c4188f884e7e19b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ec82d4f638f9932d2641b7c95e417f28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ec82d4f638f9932d2641b7c95e417f28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\5f738d173eabcb0573f3a33d97975439\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\5f738d173eabcb0573f3a33d97975439\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\fd98b963f7aaef6697e9ab0924c2a86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\fd98b963f7aaef6697e9ab0924c2a86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\05093cd4a2e015049225f93a11d6c569\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\05093cd4a2e015049225f93a11d6c569\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\3ddc82a9f16c21b5f0e0fee9d9b03c52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\3ddc82a9f16c21b5f0e0fee9d9b03c52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\38fa209f0ca902b826d89a106add2fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\38fa209f0ca902b826d89a106add2fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\e9ed9ca7c7ff320d10c16df47288a7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\e9ed9ca7c7ff320d10c16df47288a7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\5380dd66d43ae9968408e3e94ac0fb0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\5380dd66d43ae9968408e3e94ac0fb0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\886a0d626578ca98d44115bce7e1e787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\886a0d626578ca98d44115bce7e1e787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\02a19d220b47a22ed9bc56436f299490\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\02a19d220b47a22ed9bc56436f299490\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\14e0cd6eef8e6c8a5615e0eec5c9dd02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\14e0cd6eef8e6c8a5615e0eec5c9dd02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\a18e10221dc7126a97f53cd7c1b90401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\a18e10221dc7126a97f53cd7c1b90401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\13a785c61d8a1a0363a7bc6c5a7bd62c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\13a785c61d8a1a0363a7bc6c5a7bd62c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\965106ad1777522b9e68197d78c0bf43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\965106ad1777522b9e68197d78c0bf43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ecb39431001cef38b1904d77f98e2866\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ecb39431001cef38b1904d77f98e2866\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\15bbb178e75cddcd4d4fdeec78f5a830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\15bbb178e75cddcd4d4fdeec78f5a830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\9aac15f18608bb74a4cdc8e105986a88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\9aac15f18608bb74a4cdc8e105986a88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\65e530d34a85eae9d32461191f3a4042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\65e530d34a85eae9d32461191f3a4042\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\162a10f2aedaba906e5501564edf87c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\162a10f2aedaba906e5501564edf87c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\c21f3f46085c529322c18dffb9257b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\c21f3f46085c529322c18dffb9257b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ff6096746adf33172798b2bbf73846eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\ff6096746adf33172798b2bbf73846eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\b8b5903923bcbc575e7de621a678b667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\b8b5903923bcbc575e7de621a678b667\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\0672c6332b8bdc391d00d0bde2e93008\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\0672c6332b8bdc391d00d0bde2e93008\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\4fd532ab504db2e8233742dddad708cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\4fd532ab504db2e8233742dddad708cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\01182262091909c8f37bacb9c0427cce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\01182262091909c8f37bacb9c0427cce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\984eb083d855c8833a59460c599ec508\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\984eb083d855c8833a59460c599ec508\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\82da0d87cbc719c324f7571ddd016919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kefi Med Aziz\.gradle\caches\transforms-2\files-2.1\82da0d87cbc719c324f7571ddd016919\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kefi Med Aziz\Desktop\a\tt pres de chez vous\app\src\main\AndroidManifest.xml
